@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-15T19:57:36 IST" name="BirstInforAutomation" finished-at="2021-04-15T19:58:31 IST" duration-ms="54303">
+    <groups>
+    </groups>
+    <test started-at="2021-04-15T19:57:36 IST" name="BirstInforInterviewTask" finished-at="2021-04-15T19:58:31 IST" duration-ms="54303">
+      <class name="com.birst.infor.Tests.AutomationTask">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.birst.infor.Tests.AutomationTask@7690781]" started-at="2021-04-15T19:57:33 IST" name="BeforeSuite" finished-at="2021-04-15T19:57:36 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method signature="vefiryGooglePageTitleAndClickingOnBirstInforLink()[pri:1, instance:com.birst.infor.Tests.AutomationTask@7690781]" started-at="2021-04-15T19:57:36 IST" name="vefiryGooglePageTitleAndClickingOnBirstInforLink" finished-at="2021-04-15T19:58:06 IST" duration-ms="30121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vefiryGooglePageTitleAndClickingOnBirstInforLink -->
+        <test-method signature="verifyInforLogoOnPage()[pri:2, instance:com.birst.infor.Tests.AutomationTask@7690781]" started-at="2021-04-15T19:58:06 IST" name="verifyInforLogoOnPage" finished-at="2021-04-15T19:58:12 IST" duration-ms="5349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInforLogoOnPage -->
+        <test-method signature="verifyNavigateToResourcePageAndValidateWebinarText()[pri:3, instance:com.birst.infor.Tests.AutomationTask@7690781]" started-at="2021-04-15T19:58:12 IST" name="verifyNavigateToResourcePageAndValidateWebinarText" finished-at="2021-04-15T19:58:31 IST" duration-ms="18750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateToResourcePageAndValidateWebinarText -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:com.birst.infor.Tests.AutomationTask@7690781]" started-at="2021-04-15T19:58:31 IST" name="AfterSuite" finished-at="2021-04-15T19:58:32 IST" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.birst.infor.Tests.AutomationTask -->
+    </test> <!-- BirstInforInterviewTask -->
+  </suite> <!-- BirstInforAutomation -->
+</testng-results>

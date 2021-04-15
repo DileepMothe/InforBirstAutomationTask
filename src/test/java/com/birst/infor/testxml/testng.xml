@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BirstInforAutomation" parallel="none" thread-count="3">
+	<test name="BirstInforInterviewTask" preserve-order="false">
+		<classes>
+			<class name="com.birst.infor.Tests.AutomationTask" />
+		</classes>
+	</test>
+</suite>
